@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mdbtosql</groupId>
   <artifactId>mdbtosql</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4</version>
   <name>mdbtosql</name>
   <description>MDB2SQL Conversion Tool</description>
   
@@ -68,7 +68,7 @@
 			<dependency>
 			<groupId>dblib</groupId>
 			<artifactId>dblib</artifactId>
-			<version>1.2.5306</version>
+			<version>1.2.6011</version>
 		</dependency>
 		
     </dependencies>

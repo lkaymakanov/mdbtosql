@@ -45,7 +45,7 @@ public class TestQueriesModule
 			// TODO Auto-generated method stub
 			return  new ElapsedTimer();
 		}
-	});
+	}, null);
   }
   
   public void test()
